@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello world 👋
+Меня зовут Диана и я junior специалист в области тестирования ПО
 
 <!--
 **DianaKhorosavina/DianaKhorosavina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
