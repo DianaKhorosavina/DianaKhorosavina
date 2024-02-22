@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Проекты и домашние задания над которыми я работала во время обучения
--[Дипломный проект](https://github.com/DianaKhorosavina/diploma-project)
+- [Дипломный проект](https://github.com/DianaKhorosavina/diploma-project)
+- [Групповой проект Java для тестировщиков](https://github.com/EgorKustov/TeamProject)
 
 
 ### Сертификаты
