@@ -19,4 +19,7 @@ Here are some ideas to get you started:
 
 
 ### Сертификаты
+- Сертификат о прохожденияя курса [Ручное тестирование веб приложений](https://github.com/DianaKhorosavina/portfolio/blob/f877aae6c10f367c4fd642f45ad4ce7da77dd26e/image-2.png)
 - Сертификат о прохождении курса [Git система контроля версий](https://github.com/DianaKhorosavina/portfolio/blob/f877aae6c10f367c4fd642f45ad4ce7da77dd26e/image.png)
+- Сертификат о прохождении курса [Java для тестировщиков](https://github.com/DianaKhorosavina/portfolio/blob/f877aae6c10f367c4fd642f45ad4ce7da77dd26e/image-1.png)
+- Сертификат прохождении курса [Автоматизированное тестирование](https://github.com/DianaKhorosavina/portfolio/blob/a4987d0c45bf62c070e5a667ec903e94665c5974/image-3.png)
