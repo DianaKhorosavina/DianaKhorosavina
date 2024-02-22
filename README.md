@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 
 ### Сертификаты
-- Сертификат о прохождении курса ![Git система контроля версий](https://github.com/DianaKhorosavina/portfolio/blob/f877aae6c10f367c4fd642f45ad4ce7da77dd26e/image.png)
+- Сертификат о прохождении курса ![Git система контроля версий](image.png)
